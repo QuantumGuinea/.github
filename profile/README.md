@@ -27,7 +27,7 @@
 |<img src="https://avatars.githubusercontent.com/Yumi-Park996" width=100px>|<img src="https://avatars.githubusercontent.com/taehyun32" width=100px>|<img src="https://avatars.githubusercontent.com/Juyoung8563" width=100px>|<img src="https://avatars.githubusercontent.com/usn757" width=100px>|<img src="https://avatars.githubusercontent.com/23MinL" width=100px>|<img src="https://avatars.githubusercontent.com/s0ooo0k" width=100px>|
 |:------:|:------:|:-------:|:-------:|:-------:|:-------:|
 |박유미|김태현|손주영|유승남|이상민|지현숙|
-|[@Yumi-Park996](https://github.com/Yumi-Park996)|[@tae_hyun](https://github.com/taehyun32)|[@Juyoung8563](https://github.com/Juyoung8563)|[@dy6578ekdbs](http://github.com/dy6578ekdbs)|[@usn757](https://github.com/usn757)|[@s0ooo0k](https://github.com/s0ooo0k)|
+|[@Yumi-Park996](https://github.com/Yumi-Park996)|[@tae_hyun](https://github.com/taehyun32)|[@Juyoung8563](https://github.com/Juyoung8563)|[@usn757](https://github.com/usn757)|[@23MinL](https://github.com/23MinL)|[@s0ooo0k](https://github.com/s0ooo0k)|
 
 ## 📬 연락하기
 프로젝트에 대한 질문이나 제안이 있다면 [Issues](https://github.com/QuantumGuinea/organization-repo/issues) 를 통해 자유롭게 의견을 남겨주세요!
